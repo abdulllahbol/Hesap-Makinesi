@@ -1,7 +1,7 @@
 # Hesap-Makinesi
 GÖREVLER
 
-- Toplama : 
+- Toplama : Abdullah tarafından yapıldı.
 - Çıkarma : 
 - Çarpma : 
 - Bölme : Cemal tarafından yapıldı.
